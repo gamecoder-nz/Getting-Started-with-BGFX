@@ -30,17 +30,18 @@ Each episode introduces new concepts and builds upon the last:
 | 7 | Using textures |
 | 8 | Creating a frame buffer |
 | 9 | Creating a depth stencil buffer |
-| 10 | ImGui |
-| 11 | Read a color |
-| 12 | Creating a font texture |
-| 13 | Rendering text |
+| 10 | Creating a rotating 3D pyramid |
+| 11 | ImGui |
+| 12 | Read a color |
+| 13 | Creating a font texture |
+| 14 | Rendering text |
 
 ---
 
 ## ⚙️ Getting Started
 
 ### Prerequisites
-- **C++17 or later**
+- **C++20 or later**
 - **Visual Studio**
 - A compiler supported by BGFX (Visual Studio, GCC, or Clang)
 - Git
