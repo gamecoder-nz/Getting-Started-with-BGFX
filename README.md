@@ -10,7 +10,7 @@ This project accompanies a video tutorial series where I explore **BGFX**, a cro
 This repository contains the source code and examples featured in the video series.
 
 **Watch the series on YouTube:**  
-➡️ [Episode 1 – Introduction]([https://youtube.com/](https://youtu.be/mL4_pjSTMnk)) *(link coming soon)*
+➡️ [Episode 1 – Introduction]([https://youtube.com/](https://youtu.be/mL4_pjSTMnk))
 
 ---
 
